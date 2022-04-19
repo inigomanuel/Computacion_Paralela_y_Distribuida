@@ -67,6 +67,14 @@ void Odd_even_sort(int a[], bool b[], int n) {
     //}
 
     //MPI_Finalize();
+
+    //if(rank == 0){
+        //for(int i =0;i<n;i++){
+            //printf("%d", a)
+        //}
+        //printf("\n");
+    //}
+
 } 
 
 void Generate_list(int a[], int n) {
